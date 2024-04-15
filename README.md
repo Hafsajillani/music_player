@@ -23,3 +23,4 @@ This project demonstrates the use of HTML, CSS, and JavaScript to create a funct
 ---
 
 ![github](https://github.com/Hafsajillani/music_player/assets/103882246/82ccad28-01a7-4f1d-bf51-04f6c321c3ce)
+
